@@ -1,6 +1,8 @@
 cordova-android-accountmanager
 ==============================
 
+<span style="color:red">**WARNING: this project is no longer maintained, project archived as read-only.**</span>
+
 Introduction
 ------------
 
